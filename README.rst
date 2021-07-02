@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2Fzipp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2Fzipp?ref=badge_shield)
+
 .. image:: https://img.shields.io/pypi/v/zipp.svg
    :target: `PyPI link`_
 
@@ -23,3 +25,7 @@
 
 A pathlib-compatible Zipfile object wrapper. Official backport of the standard library
 `Path object <https://docs.python.org/3.8/library/zipfile.html#path-objects>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2Fzipp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2Fzipp?ref=badge_large)
